@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cdfcfe5e.chunk.css",
-    "main.js": "/static/js/main.c6cafc2f.chunk.js",
-    "main.js.map": "/static/js/main.c6cafc2f.chunk.js.map",
+    "main.js": "/static/js/main.3612d00d.chunk.js",
+    "main.js.map": "/static/js/main.3612d00d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dfde4562.js",
     "runtime-main.js.map": "/static/js/runtime-main.dfde4562.js.map",
     "static/js/2.3ccbd2cd.chunk.js": "/static/js/2.3ccbd2cd.chunk.js",
@@ -24,7 +24,10 @@
     "static/media/fenok.a4ac205e.png": "/static/media/fenok.a4ac205e.png",
     "static/media/fenok.c1ef2513.png": "/static/media/fenok.c1ef2513.png",
     "static/media/fenok_white.caf37c5f.png": "/static/media/fenok_white.caf37c5f.png",
+    "static/media/football.4b5c2c44.png": "/static/media/football.4b5c2c44.png",
+    "static/media/football_white.1cd8bdb6.png": "/static/media/football_white.1cd8bdb6.png",
     "static/media/fruits.6a6be465.png": "/static/media/fruits.6a6be465.png",
+    "static/media/gh-pages.3aefb3f5.png": "/static/media/gh-pages.3aefb3f5.png",
     "static/media/gulp.c7de3a04.png": "/static/media/gulp.c7de3a04.png",
     "static/media/jquery.1f545492.png": "/static/media/jquery.1f545492.png",
     "static/media/learn.0eb79cbd.png": "/static/media/learn.0eb79cbd.png",
@@ -56,6 +59,6 @@
     "static/js/runtime-main.dfde4562.js",
     "static/js/2.3ccbd2cd.chunk.js",
     "static/css/main.cdfcfe5e.chunk.css",
-    "static/js/main.c6cafc2f.chunk.js"
+    "static/js/main.3612d00d.chunk.js"
   ]
 }
