@@ -7,7 +7,7 @@ import roulette from '../images/pages/ruleta.png';
 import ecommerce from '../images/pages/ecommerce.png';
 import covid from '../images/pages/covid.png';
 import fruits from '../images/pages/fruits.png';
-import football from '../images/pages/football.png';
+import football from '../images/pages/fruits.png';
 
 import lichess_icon from '../icons/lichess.png';
 import lichess_icon_white from '../icons/lichess_white.png';
