@@ -7,6 +7,7 @@ import roulette from '../images/pages/ruleta.png';
 import ecommerce from '../images/pages/ecommerce.png';
 import covid from '../images/pages/covid.png';
 import fruits from '../images/pages/fruits.png';
+import football from '../images/pages/football.png';
 
 import lichess_icon from '../icons/lichess.png';
 import lichess_icon_white from '../icons/lichess_white.png';
@@ -26,6 +27,8 @@ import covid_icon from '../icons/covid.png';
 import covid_icon_white from '../icons/covid_white.png';
 import fruits_icon from '../icons/fruits.png';
 import fruits_icon_white from '../icons/fruits_white.png';
+import football_icon from '../icons/football.png';
+import football_icon_white from '../icons/football_white.png';
 
 import react_icon from '../icons/tech/react.png';
 import netlify_icon from '../icons/tech/netlify.png';
@@ -49,6 +52,7 @@ import expo_icon from '../icons/tech/expo.png';
 import androidStudio_icon from '../icons/tech/androidStudio.png';
 import express_icon from '../icons/tech/express.png';
 import bootstrap_icon from '../icons/tech/bootstrap.png';
+import gh_pages_icon from '../icons/tech/gh-pages.png';
 
 export const data = [
 
@@ -150,10 +154,21 @@ export const data = [
         name: 'Fruit Season',
         img: fruits,
         alt: 'fruits',
-        text: 'Prepare the setlist for a band practice. You can set the tempo of each song and get the help of an acoustic and visual fruits.',
+        text: 'fruits by season',
         icon: fruits_icon,
         icon_white: fruits_icon_white,
         url: 'https://aleixdev.com/projectes/fruits',
         techIcons: [react_icon, reactNative_icon, heroku_icon]
+    },
+    {
+        id: 10,
+        name: 'Football - Fancy Standings',
+        img: football,
+        alt: 'football',
+        text: 'Fancy football standings. All standings around are simple and ugly. These are pretty',
+        icon: football_icon,
+        icon_white: football_icon_white,
+        url: 'https://aleixdeveloper.github.io/football-react',
+        techIcons: [react_icon, reactNative_icon, gh_pages_icon]
     },
 ]
