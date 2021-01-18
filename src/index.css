@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Ubuntu', 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
