@@ -86,7 +86,7 @@ export const data = [
         text: 'Streaming interface of a chess match in real time. Powered by the Lichess API. It uses the PGN and FEN notation for moving the pieces on the chess board.',
         icon: lichess_icon,
         icon_white: lichess_icon_white,
-        url: 'https://lichess.netlify.app/',
+        url: 'https://aleixdeveloper.github.io/lichess-live-streaming',
         techIcons: [react_icon, node_icon, materialize_icon, npm_icon, netlify_icon]
     },
     {
@@ -101,17 +101,17 @@ export const data = [
         techIcons: [wordpress_icon, php_icon, mysql_icon, jquery_icon,]
     },
 
-    {
-        id: 5,
-        name: 'Learn English',
-        img: learn_english,
-        alt: 'learn english',
-        text: 'Improve your english or catalan by translating popular words in a three-level difficulty app.',
-        icon: learn_icon,
-        icon_white: learn_icon_white,
-        url: 'https://aleixdev.com/projectes/learn',
-        techIcons: [php_icon, mysql_icon, jquery_icon]
-    },
+    /*     {
+            id: 5,
+            name: 'Learn English',
+            img: learn_english,
+            alt: 'learn english',
+            text: 'Improve your english or catalan by translating popular words in a three-level difficulty app.',
+            icon: learn_icon,
+            icon_white: learn_icon_white,
+            url: 'https://aleixdev.com/projectes/learn',
+            techIcons: [php_icon, mysql_icon, jquery_icon]
+        }, */
 
     {
         id: 6,
@@ -121,7 +121,7 @@ export const data = [
         text: 'Find the winning chances of an european roulette by simulating multiple ball throwings in a very short time.',
         icon: roulette_icon,
         icon_white: roulette_icon_white,
-        url: 'https://aleixdev.com/projectes/proyectodaw',
+        url: 'https://aleixdeveloper.github.io/roulette-simulator',
         techIcons: [react_icon, node_icon, materialui_icon, chartjs_icon]
     },
 
@@ -138,17 +138,17 @@ export const data = [
         techIcons: [reactNative_icon, expo_icon, androidStudio_icon]
     },
 
-    {
-        id: 8,
-        name: 'Metronome',
-        img: metronome,
-        alt: 'metronome',
-        text: 'Prepare the setlist for a band practice. You can set the tempo of each song and get the help of an acoustic and visual metronome.',
-        icon: metronome_icon,
-        icon_white: metronome_icon_white,
-        url: 'https://aleixdev.com/projectes/metronome',
-        techIcons: [php_icon, mysql_icon, jquery_icon]
-    },
+    /*     {
+            id: 8,
+            name: 'Metronome',
+            img: metronome,
+            alt: 'metronome',
+            text: 'Prepare the setlist for a band practice. You can set the tempo of each song and get the help of an acoustic and visual metronome.',
+            icon: metronome_icon,
+            icon_white: metronome_icon_white,
+            url: 'https://aleixdev.com/projectes/metronome',
+            techIcons: [php_icon, mysql_icon, jquery_icon]
+        }, */
     {
         id: 9,
         name: 'Fruit Season',
