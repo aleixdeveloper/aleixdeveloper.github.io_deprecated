@@ -64,7 +64,7 @@ export const data = [
         text: 'Select your town to get the daily cases of COVID-19. Suspicious and Positives by PCR.',
         icon: covid_icon,
         icon_white: covid_icon_white,
-        url: 'https://aleixdev.com/projectes/covid',
+        url: 'https://aleixdeveloper.github.io/analisi-covid',
         techIcons: [react_icon, bootstrap_icon, chartjs_icon]
     },
     {
@@ -157,7 +157,7 @@ export const data = [
         text: 'fruits by season',
         icon: fruits_icon,
         icon_white: fruits_icon_white,
-        url: 'https://aleixdev.com/projectes/fruits',
+        url: 'https://aleixdev.com/glassmorphism-fruits',
         techIcons: [react_icon, reactNative_icon, heroku_icon]
     },
     {
