@@ -24,7 +24,7 @@ const Header = () => {
 
     return (
         <header className="masthead text-center" style={theme.primary}>
-            <div className="container d-flex align-items-center flex-column">
+            <div className="container header d-flex align-items-center flex-column">
                 <div className="img-hover-zoom img-hover-zoom--xyz"
                     onMouseOver={hoverIn}
                     onMouseOut={hoverOut}
@@ -34,7 +34,7 @@ const Header = () => {
 
                 <h1 className="masthead-heading mb-0" style={h1Style}>Aleix Clemente</h1>
 
-                <div className="divider-custom">
+                <div className="divider-custom divider-custom-code">
                     <div className="divider-custom-line" style={theme.primaryReversed}></div>
                     <div className="divider-custom-icon"><img src={theme.id % 2 !== 0 ? code_white : code_black} alt='Code icon </>' style={code_iconStyle} /></div>
                     <div className="divider-custom-line" style={theme.primaryReversed}></div>

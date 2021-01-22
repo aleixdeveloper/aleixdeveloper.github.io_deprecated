@@ -85,6 +85,13 @@
   }
 }
 
+.divider-custom-code{
+  margin: 0;
+}
+.masthead{
+  padding-top: 150px;
+  padding-bottom: 40px;
+}
 .navbar-nav .nav-item:hover {
   text-decoration: underline;
 }
