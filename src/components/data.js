@@ -91,6 +91,39 @@ export const data = [
     },
     {
         id: 4,
+        name: 'Fruit Season',
+        img: fruits,
+        alt: 'fruits',
+        text: 'fruits by season',
+        icon: fruits_icon,
+        icon_white: fruits_icon_white,
+        url: 'https://aleixdev.com/glassmorphism-fruits',
+        techIcons: [react_icon, reactNative_icon, heroku_icon]
+    },
+    {
+        id: 5,
+        name: 'Security Mobile App',
+        img: mobile,
+        alt: 'Security Mobile',
+        text: 'This app is in a building state yet.',
+        icon: mobile_icon,
+        icon_white: mobile_icon_white,
+        url: 'https://play.google.com/store',
+        techIcons: [reactNative_icon, expo_icon, androidStudio_icon]
+    },
+    {
+        id: 6,
+        name: 'Football - Fancy Standings',
+        img: football,
+        alt: 'football',
+        text: 'Fancy football standings. All standings around are simple and ugly. These are pretty',
+        icon: football_icon,
+        icon_white: football_icon_white,
+        url: 'https://aleixdeveloper.github.io/football-react',
+        techIcons: [react_icon, reactNative_icon, gh_pages_icon]
+    },
+    {
+        id: 7,
         name: 'Fenok',
         img: fenok,
         alt: 'fenok',
@@ -99,6 +132,17 @@ export const data = [
         icon_white: fenok_icon_white,
         url: 'https://aleixdev.com/projectes/wordpress',
         techIcons: [wordpress_icon, php_icon, mysql_icon, jquery_icon,]
+    },
+    {
+        id: 8,
+        name: 'Roulette Simulator',
+        img: roulette,
+        alt: 'Roulette Simulator',
+        text: 'Find the winning chances of an european roulette by simulating multiple ball throwings in a very short time.',
+        icon: roulette_icon,
+        icon_white: roulette_icon_white,
+        url: 'https://aleixdeveloper.github.io/roulette-simulator',
+        techIcons: [react_icon, node_icon, materialui_icon, chartjs_icon]
     },
 
     /*     {
@@ -113,31 +157,6 @@ export const data = [
             techIcons: [php_icon, mysql_icon, jquery_icon]
         }, */
 
-    {
-        id: 6,
-        name: 'Roulette Simulator',
-        img: roulette,
-        alt: 'Roulette Simulator',
-        text: 'Find the winning chances of an european roulette by simulating multiple ball throwings in a very short time.',
-        icon: roulette_icon,
-        icon_white: roulette_icon_white,
-        url: 'https://aleixdeveloper.github.io/roulette-simulator',
-        techIcons: [react_icon, node_icon, materialui_icon, chartjs_icon]
-    },
-
-
-    {
-        id: 7,
-        name: 'Security Mobile App',
-        img: mobile,
-        alt: 'Security Mobile',
-        text: 'This app is in a building state yet.',
-        icon: mobile_icon,
-        icon_white: mobile_icon_white,
-        url: 'https://play.google.com/store',
-        techIcons: [reactNative_icon, expo_icon, androidStudio_icon]
-    },
-
     /*     {
             id: 8,
             name: 'Metronome',
@@ -149,26 +168,4 @@ export const data = [
             url: 'https://aleixdev.com/projectes/metronome',
             techIcons: [php_icon, mysql_icon, jquery_icon]
         }, */
-    {
-        id: 9,
-        name: 'Fruit Season',
-        img: fruits,
-        alt: 'fruits',
-        text: 'fruits by season',
-        icon: fruits_icon,
-        icon_white: fruits_icon_white,
-        url: 'https://aleixdev.com/glassmorphism-fruits',
-        techIcons: [react_icon, reactNative_icon, heroku_icon]
-    },
-    {
-        id: 10,
-        name: 'Football - Fancy Standings',
-        img: football,
-        alt: 'football',
-        text: 'Fancy football standings. All standings around are simple and ugly. These are pretty',
-        icon: football_icon,
-        icon_white: football_icon_white,
-        url: 'https://aleixdeveloper.github.io/football-react',
-        techIcons: [react_icon, reactNative_icon, gh_pages_icon]
-    },
 ]
