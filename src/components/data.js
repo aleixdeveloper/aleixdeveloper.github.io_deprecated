@@ -1,22 +1,22 @@
 import lichess from '../images/pages/lichess.png';
 import fenok from '../images/pages/fenok.png';
-import learn_english from '../images/pages/learn_english.png';
-import metronome from '../images/pages/metronome.png';
+/* import learn_english from '../images/pages/learn_english.png';
+import metronome from '../images/pages/metronome.png'; */
 import mobile from '../images/pages/mobile.png';
 import roulette from '../images/pages/ruleta.png';
 import ecommerce from '../images/pages/ecommerce.png';
 import covid from '../images/pages/covid.png';
 import fruits from '../images/pages/fruits.png';
-import football from '../images/pages/fruits.png';
+import football from '../images/pages/football.png';
 
 import lichess_icon from '../icons/lichess.png';
 import lichess_icon_white from '../icons/lichess_white.png';
 import fenok_icon from '../icons/fenok.png';
 import fenok_icon_white from '../icons/fenok_white.png';
-import learn_icon from '../icons/learn.png';
+/* import learn_icon from '../icons/learn.png';
 import learn_icon_white from '../icons/learn_white.png';
 import metronome_icon from '../icons/metronome.png';
-import metronome_icon_white from '../icons/metronome_white.png';
+import metronome_icon_white from '../icons/metronome_white.png'; */
 import mobile_icon from '../icons/mobile.png';
 import mobile_icon_white from '../icons/mobile_white.png';
 import roulette_icon from '../icons/roulette.png';
@@ -33,8 +33,8 @@ import football_icon_white from '../icons/football_white.png';
 import react_icon from '../icons/tech/react.png';
 import netlify_icon from '../icons/tech/netlify.png';
 import chartjs_icon from '../icons/tech/chartjs.png';
-import git_icon from '../icons/tech/git.png';
-import gulp_icon from '../icons/tech/gulp.png';
+/* import git_icon from '../icons/tech/git.png';
+import gulp_icon from '../icons/tech/gulp.png'; */
 import heroku_icon from '../icons/tech/heroku.png';
 import jquery_icon from '../icons/tech/jquery.png';
 import materialize_icon from '../icons/tech/materialize.png';
@@ -45,7 +45,7 @@ import node_icon from '../icons/tech/nodejs.png';
 import npm_icon from '../icons/tech/npm.png';
 import php_icon from '../icons/tech/php.png';
 import redux_icon from '../icons/tech/redux.png';
-import sass_icon from '../icons/tech/sass.png';
+/* import sass_icon from '../icons/tech/sass.png'; */
 import wordpress_icon from '../icons/tech/wordpress.png';
 import reactNative_icon from '../icons/tech/reactNative.png';
 import expo_icon from '../icons/tech/expo.png';
