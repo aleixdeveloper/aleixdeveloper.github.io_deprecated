@@ -148,7 +148,7 @@ export const data = [
       "Fancy football standings. All standings around are simple and ugly. These are pretty",
     icon: football_icon,
     icon_white: football_icon_white,
-    url: "https://aleixdeveloper.github.io/football-react",
+    url: "https://aleixdeveloper.github.io/fancy-standings",
     techIcons: [
       { id: "1", url: react_icon },
       { id: "15", url: reactNative_icon },
@@ -164,7 +164,7 @@ export const data = [
       "Rock band website made with Wordpress, with some changes in the CSS and PHP code.",
     icon: fenok_icon,
     icon_white: fenok_icon_white,
-    url: "https://aleixdev.com/projectes/wordpress",
+    url: "#",
     techIcons: [
       { id: "14", url: wordpress_icon },
       { id: "12", url: php_icon },
